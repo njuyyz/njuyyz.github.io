@@ -1,20 +1,20 @@
 <div class="row">
-  <div class="span4">
+  <div class="span4" id="about_frame" >
     {% include custom/asides/about.html %}
   </div>
-  <div class="span6">
-    {% include asides/github.html %}
+  <div class="span3" id="about_frame">
+    {% include custom/asides/category_list.html %}
   </div>
 
-  <div class="span3">
-    <h2><a href="/blog/archives">Archives</a></h2>
-    <ul class="recent_posts">
-      {% for post in site.posts limit: site.recent_posts %}
+  <div class="span3" id="about_frame">
+      <h2><a href="/blog/archives">Archives</a></h2>
+      <ul class="recent_posts">
+        {% for post in site.posts limit: site.recent_posts %}
         <li>
           <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
         </li>
-      {% endfor %}
-    </ul>
+        {% endfor %}
+      </ul>
   </div>
-  
+
 </div>
