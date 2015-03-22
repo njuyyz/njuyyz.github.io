@@ -1,0 +1,29 @@
+---
+layout: post
+title: "new hire"
+date: 2015-03-22 13:10
+comments: true
+categories: work
+---
+二月九日入职，到现在已经过了一个半月了。感受到了Facebook的氛围，刚开始还挺怕来Facebook，因为听说工作很辛苦，压力有点大。其实从开始到现在，对Facebook对认知有了一些改变。
+<!-- more -->
+
+没入职之前，很期待又很担心，因为FB毕竟是个非常出名的科技公司，跟别人提起我将去FB工作都会有慢慢的自豪感，但是与此同时，也很担心，毕竟Geek的文化下，有大批smart甚至sharp的同事，我担心会很难融入其中。
+
+入职第一周，大部分是兴奋，新入职的员工有很多活动，大家都其乐融融的，很快乐，而且第一周都是各种大佬来给演讲，真正能体会到大佬之所以是大佬，每个人都有各自非常突出的优点。记忆最深的是Chris Cox ![](https://tctechcrunch2011.files.wordpress.com/2014/05/20130322_ccox_0015-2-copy.jpg =200x ), 第一感觉是，这人长的特别像jake gyllenhaal ![](https://www.movieposter.com/posters/archive/main/134/MPW-67148 =200x )。 照片看上去还是优点区别，但是真人真的感觉特别像。Chris特别能讲，CPO 的确就是CPO，有模有样的，感觉稳重但又富有激情，从他那里能感受到公司文化和传闻中不一样的一些特点。CTO，Mike Schroepfer 也是超有智慧的一个人，从他的演讲中能感受到一个资深工程师的涵养。很遗憾的是Mark没有给我们bootcamp一个单独的演讲，第一次见到他是在All hands 大会上，言谈举止不想一个高高在上的CEO，反而更像一个普通的员工。我觉得很少有大公司能做的像FB一样，让新入职的员工见到所有的公司领导层。这一点上FB做的很好。在大量扩招的环境下，公司能够做到这样，也是很值得欣慰的，而且我想这也是一个很好的把握和维护公司原本文化的方式。
+
+第二周，开始上课学习，渐渐体会到公司Move Fast的文化，一堂课的内容很多，在课堂上是完完全全消化不完所有内容的，下课之后要花很多时间去阅读wiki和理解，move fast的点估计就在这里，对于聪明和learning fast的人来说，是一件及其愉快和充满激情的事情，但是对于我这样，相对慢一点的learner，事情就变得困难一些，move fast的代价就是spend more time，但是这也不是什么令人不悦或者沮丧的事。**我常常认为，在不如别人的时候，通过努力，达到和别人同样的水平，那就意味着在这一方面，你收获了比别人更多的知识和经验，这点很重要**。而且对于我这样的new grads来说，第一份工作不是要做到十全十美，不是要达到得心应手，而是一个学习和积累经验的机会。Facebook对于我来说就是一个最好不过的平台，move fast意味着在短时间内我能学到很多东西（虽然在另一方面，我需要花更多时间和经历在工作上，但我觉得这是值得的）。
+
+第三周到第六周，我选择学习android，我不知道这是不是一个错误到决定，也许是，又或者不是。选择android的理由有四个：
+
+1. 我之前有一点android的经验，学习起来应该比较容易一点
+2. 听了西雅图的team talks之后，我发现在西雅图的android组特别多，这样的话bootcamp毕业之后，选组的选择面会广很多
+3. 我最想去的组（也是我最后决定去得组），需要两种bootcampers，（1）android （2）research specialist。自认为目前还没有能力做research，所有android是我最适合的选择
+4. mobile first一直被公司提起，觉得mobile的发展趋势越来越明显，所以在android和ios之间徘徊了很久，其实很想去ios的，因为ios的app 生态系统对程序员更友好，更适合startup发展。但是android有android的优势，就是open source，这样以来就能hack到很系统的层面上去 ![](http://bestgamestrick.com/wp-content/uploads/2015/02/Android_Root-645x318.png =200x), 这种opportunity对于程序员来讲，还是挺有诱惑力的。而且给予前三点，我决定放弃ios
+
+这几周学习android，感觉尽管之前有一点点android经验，学习起来还是比较吃力，有很多concepts之前都没有注意过，再加上公司内部的一些框架，一开始还是很难理解和应用。不过我还在认真努力，希望能在不久的将来，渐渐熟悉，正常投入工作 :)
+在学习android的这几周，我也同时在看一些paper，关于recommendation的paper，因为我加入的team就是做recommendation 的，manager也告诉我当我进组之后，我会一半时间做android，一半时间做recommendation，这一点上很让我激动，一方面，我对recommendation也挺感兴趣的，另一方面，我感觉manager也很重视我（哈哈，容我稍微自我一次）。不过这意味着工作的压力也蛮大的，毕竟machine learning的东西是第一学期学的了，当我开会的时候听到stochastic gradient decent的时候，亲切又陌生，不过还是很有学习和复习的欲望的。
+
+希望这是一个很好的开始 :)
+
+
