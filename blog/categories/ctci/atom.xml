@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: CTCI | Odyssey]]></title>
+  <link href="http://njuyyz.github.io/blog/categories/ctci/atom.xml" rel="self"/>
+  <link href="http://njuyyz.github.io/"/>
+  <updated>2018-12-28T14:05:20-08:00</updated>
+  <id>http://njuyyz.github.io/</id>
+  <author>
+    <name><![CDATA[Yunzhi Ye]]></name>
+    <email><![CDATA[njuyyzh@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[[ctci]Arrays and Strings]]></title>
+    <link href="http://njuyyz.github.io/blog/2013/09/30/ctci-arrays-and-strings/"/>
+    <updated>2013-09-30T10:53:00-07:00</updated>
+    <id>http://njuyyz.github.io/blog/2013/09/30/ctci-arrays-and-strings</id>
+    <content type="html"><![CDATA[<p>昨天又从[CTCI]第一章开始看了。复习了一下collections在java中实现和应用。</p>
+
+<!-- more -->
+
+
+<blockquote><h4><strong>equals( ) and ==</strong></h4>
+
+<h6>1. A.equals(B) compares the values of A and B, if the values of A and B are the same, return true, else return false.</h6>
+
+<h6>2. A == B compares the references of A and B, if the references of A and B are the same one, return true, else return false.</h6>
+
+<h6>3. if you want to override the method of equals(), you should also override the method of hashcode(), in order to maintain the contract that if two objects equal, their hashcode() should be the same.</h6></blockquote>
+
+<hr />
+
+<p><strong>Hashmap Hashtable Hashset</strong></p>
+
+<blockquote><h6>1. Hashtable is synchronized while Hashmap is not. So if it is thread safe, we should use Hashmap to lift the performance of our code.</h6>
+
+<h6>2. Besides differences on Synchronized, Hashmap allows to have one null key and null values, but Hashtable does not allow to have null key or null value.</h6>
+
+<h6>3. Hashset is a kind of set which does not allow duplicate value in a single set.</h6></blockquote>
+
+<hr />
+
+<p><strong>ArrayList Vection LinkedList</strong></p>
+
+<blockquote><h6>1. ArrayList and Vection are based on array, which have fixed length, if once we need to expand the size of ArayList of Vection, we need to allocate a new array, and copy the previous values into the new one.</h6>
+
+<h6>2. ArrayList is not Synchronized, while Vector is.</h6>
+
+<h6>3. LinkedList is based on linkedlist.</h6></blockquote>
+
+<hr />
+
+<p><strong>String</strong></p>
+
+<blockquote><h6>1. String objects can not be modified once it was created.</h6>
+
+<h6>2. String is a final class, cannot have subclass.</h6>
+
+<h6>3. If a String object is ofen modified through its life cycle, we should use StringBuffer( or StringBuilder).</h6>
+
+<h6>4. StringBuilder is faster, because it is not Synchronized, while StringBuffer is.</h6></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[craking the coding interview]]></title>
+    <link href="http://njuyyz.github.io/blog/2013/09/30/craking-the-coding-interview/"/>
+    <updated>2013-09-30T10:44:00-07:00</updated>
+    <id>http://njuyyz.github.io/blog/2013/09/30/craking-the-coding-interview</id>
+    <content type="html"><![CDATA[<p>Craking The Coding Interview 搞起来！</p>
+
+<!-- more -->
+
+
+<p>听闻Brown刚入学的同学已经刷了三遍CTCI了，表示很震惊。最近压力都好大，每个课的作业都足够吓死人，即便如此，我和雨寒同学也约定，就算作业再多，我们每天晚上也要从10：30开始刷CTCI的题目了，不然真的来不及了。</p>
+
+<p>于是决定开启努力模式！每天刷题，然后在Odyssey上面记录进度。一定要坚持下来！</p>
+]]></content>
+  </entry>
+  
+</feed>
